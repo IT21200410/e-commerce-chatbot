@@ -1,0 +1,34 @@
+/* .TrendingProducts */
+.TrendingProducts {
+    margin: 100px 200px;
+  }
+  
+  /* .TrendingProducts .top */
+  .TrendingProducts .top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0px;
+  }
+  
+  /* .TrendingProducts .top h1 */
+  .TrendingProducts .top h1 {
+    flex: 2;
+    text-transform: capitalize;
+    margin-right: 65px;
+  }
+  
+  /* .TrendingProducts .top p */
+  .TrendingProducts .top p {
+    flex: 3;
+    color: gray;
+    font-size: 20px;
+  }
+  
+  /* .TrendingProducts .bottom */
+  .TrendingProducts .bottom {
+    display: flex;
+    justify-content: center;
+    gap: 0px;
+  }
+  
